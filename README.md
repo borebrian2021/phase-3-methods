@@ -20,6 +20,7 @@ To start, let's try re-writing this JavaScript function in Ruby:
 ```js
 function myFunction(param) {
   console.log("Running myFunction");
+  
   return param + 1;
 }
 ```
